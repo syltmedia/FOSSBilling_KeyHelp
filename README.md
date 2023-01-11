@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/LYYQy7F/fosskey-light.png">
-      <img alt="FOSSBilling logo" src="https://i.ibb.co/dgXnRCw/fosskey.png" height="100">
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/122433487/211747509-8e3f9387-cbb6-47f2-9205-a211291aaf47.png">
+      <img alt="FOSSBilling logo" src="https://user-images.githubusercontent.com/122433487/211747458-c46475c2-92c6-4c1c-91bc-f3c6a4a45f30.png" height="100">
     </picture>
   <br>
 </h1>
