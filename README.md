@@ -13,6 +13,9 @@
 ### Installing
 Just upload the KeyHelp.php into "/library/Server/Manager"
 
+>**Info**
+>The hosting plan name must be the same in KeyHelp as in FOSSBilling!
+
 ### Got questions? Found a bug? Ideas for improvements?
 
 Don't hesitate to create an [issue](https://github.com/syltmedia/FOSSBilling_KeyHelp/issues).
