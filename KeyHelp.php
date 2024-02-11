@@ -84,12 +84,12 @@ class Server_Manager_KeyHelp extends Server_Manager {
     /**
      * Later: Custom login url for User ;) Waiting for FOSSBilling
      */
-    public function getLoginUrl()
+    public function getLoginUrl(?Server_Account $account = null)
     {
         $host = $this->_config['host'];
         return 'https://'.$host.'';
     }
-    public function getResellerLoginUrl()
+    public function getResellerLoginUrl(?Server_Account $account = null)
     {
         $host = $this->_config['host'];
         return 'https://'.$host.'';
